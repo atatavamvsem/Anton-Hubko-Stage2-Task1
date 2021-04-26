@@ -10,5 +10,9 @@ namespace TestTask1
         {
 
         }
+        public void testMethodNew()
+        {
+
+        }
     }
 }
