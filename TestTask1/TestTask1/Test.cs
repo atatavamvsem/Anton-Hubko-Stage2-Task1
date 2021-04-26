@@ -6,5 +6,9 @@ namespace TestTask1
 {
     class Test
     {
+        public void testMethod()
+        {
+
+        }
     }
 }
